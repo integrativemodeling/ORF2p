@@ -1,0 +1,3 @@
+/home/arthur/work/progs/gmconvert/gmconvert V2G -imap /home/arthur/work/ORF2/data/cryo/final/Apo_lowpass_4.5angstroms.mrc -cutoff 0.08 -ng 55 -ogmm map_ng55.gmm -max_memory 32000
+/home/arthur/work/progs/gmconvert/gmconvert V2G -imap /home/arthur/work/ORF2/data/cryo/final/Apo_lowpass_4.5angstroms.mrc -cutoff 0.08 -ng 55 -ogmm map_ng55.txt -max_memory 32000
+/home/arthur/work/progs/gmconvert/gmconvert G2E -igmm map_ng55.gmm -oewrl map_ng55_ellipsoid.wrl

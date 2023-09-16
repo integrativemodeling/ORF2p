@@ -1,0 +1,6 @@
+density_custom_ranges={
+    "EN": [(8,238,'ORF2')],
+    "TOWERTIP": [(315,353, 'ORF2')],
+    "Wrist": [(960,1031, 'ORF2')],
+    "CTD": [(1061,1276, 'ORF2')],
+}

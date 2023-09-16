@@ -1,0 +1,1877 @@
+#VRML V2.0 utf8
+
+
+#COMMAND /home/arthur/work/progs/gmconvert/gmconvert G2E -igmm map_ng55.gmm -oewrl map_ng55_ellipsoid.wrl
+#DATE    Apr 14,2023 14:55:43
+
+#shape E scale_type C qform_thre 5.000000
+
+#Gauss_Function[1]
+Transform{
+#CENTER 118.119102 113.108640 81.568213
+#CovM0  18.547527 -0.625536 -15.150751
+#CovM1  -0.625536 7.689849 -2.630499
+#CovM2  -15.150751 -2.630499 23.967931
+#PCvar  36.739309 9.064844 4.401154
+#PC1    -0.637826 -0.055824 0.768154
+#PC2    -0.460850 0.826778 -0.322576
+#PC3    -0.617086 -0.559752 -0.553067
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  13.553470
+#scale2  6.732326
+#scale3  4.691031
+  translation 118.119102 113.108640 81.568213
+  scale  13.553470 6.732326 4.691031
+#PCvar  36.739309 9.064844 4.401154 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  -0.162160 0.947110 -0.276923 -2.321369
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[2]
+Transform{
+#CENTER 104.171036 98.363724 124.704871
+#CovM0  6.615588 -3.903317 -2.316351
+#CovM1  -3.903317 9.157187 7.448335
+#CovM2  -2.316351 7.448335 21.899959
+#PCvar  26.060573 8.337069 3.275093
+#PC1    -0.191766 0.432492 0.881009
+#PC2    0.703128 -0.565731 0.430767
+#PC3    0.684717 0.702068 -0.195609
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  11.415028
+#scale2  6.456419
+#scale3  4.046661
+  translation 104.171036 98.363724 124.704871
+  scale  11.415028 6.456419 4.046661
+#PCvar  26.060573 8.337069 3.275093 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.630118 0.455903 0.628573 -2.924616
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[3]
+Transform{
+#CENTER 110.678471 102.425908 79.554573
+#CovM0  33.689160 14.748546 -3.405453
+#CovM1  14.748546 16.537367 -1.397032
+#CovM2  -3.405453 -1.397032 11.066045
+#PCvar  42.596181 10.731311 7.965079
+#PC1    0.861856 0.493950 -0.114972
+#PC2    0.009655 0.210678 0.977508
+#PC3    0.507062 -0.843581 0.176804
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.593865
+#scale2  7.325064
+#scale3  6.310737
+  translation 110.678471 102.425908 79.554573
+  scale  14.593865 7.325064 6.310737
+#PCvar  42.596181 10.731311 7.965079 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.917704 0.313462 0.244051 1.445802
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[4]
+Transform{
+#CENTER 107.925846 114.564472 122.775896
+#CovM0  19.505134 -1.365228 0.032919
+#CovM1  -1.365228 13.597124 7.428151
+#CovM2  0.032919 7.428151 10.280255
+#PCvar  20.595972 18.509909 4.276632
+#PC1    -0.707089 0.574902 0.411720
+#PC2    0.704749 0.525247 0.476911
+#PC3    0.057923 0.627378 -0.776558
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  10.147899
+#scale2  9.620267
+#scale3  4.624193
+  translation 107.925846 114.564472 122.775896
+  scale  10.147899 9.620267 4.624193
+#PCvar  20.595972 18.509909 4.276632 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.370790 0.871854 0.319978 -2.937275
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[5]
+Transform{
+#CENTER 95.081537 105.900618 104.516032
+#CovM0  8.158742 -16.739843 19.306260
+#CovM1  -16.739843 60.304839 -63.179261
+#CovM2  19.306260 -63.179261 74.162699
+#PCvar  135.901972 3.880210 2.844100
+#PC1    0.196124 -0.654024 0.730608
+#PC2    0.435602 0.725635 0.532640
+#PC3    -0.878514 0.213790 0.427209
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  26.067410
+#scale2  4.404662
+#scale3  3.771007
+  translation 95.081537 105.900618 104.516032
+  scale  26.067410 4.404662 3.771007
+#PCvar  135.901972 3.880210 2.844100 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  -0.161908 0.817095 0.553301 -1.395415
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[6]
+Transform{
+#CENTER 93.449395 107.085507 118.363121
+#CovM0  38.729343 10.051275 16.656314
+#CovM1  10.051275 20.528164 7.239984
+#CovM2  16.656314 7.239984 36.194766
+#PCvar  58.186278 21.198637 16.067357
+#PC1    0.705654 0.310768 0.636770
+#PC2    -0.573721 -0.276785 0.770866
+#PC3    0.415808 -0.909293 -0.017020
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  17.056711
+#scale2  10.295299
+#scale3  8.963079
+  translation 93.449395 107.085507 118.363121
+  scale  17.056711 10.295299 8.963079
+#PCvar  58.186278 21.198637 16.067357 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.878944 -0.115592 0.462704 1.869285
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[7]
+Transform{
+#CENTER 92.453584 84.845757 109.679254
+#CovM0  35.815419 20.874308 -15.488381
+#CovM1  20.874308 25.116339 -13.470386
+#CovM2  -15.488381 -13.470386 14.483945
+#PCvar  61.041360 9.206676 5.167667
+#PC1    0.717535 0.568055 -0.403059
+#PC2    -0.682396 0.689279 -0.243374
+#PC3    0.139570 0.449675 0.882220
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  17.470169
+#scale2  6.784790
+#scale3  5.083142
+  translation 92.453584 84.845757 109.679254
+  scale  17.470169 6.784790 5.083142
+#PCvar  61.041360 9.206676 5.167667 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  -0.453216 0.354850 0.817727 0.870405
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[8]
+Transform{
+#CENTER 102.016162 119.267701 78.254603
+#CovM0  62.083721 0.762939 1.649765
+#CovM1  0.762939 3.887388 -0.862157
+#CovM2  1.649765 -0.862157 6.575996
+#PCvar  62.142038 6.795110 3.609958
+#PC1    0.999485 0.012654 0.029479
+#PC2    -0.024543 -0.290101 0.956681
+#PC3    0.020657 -0.956912 -0.289641
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  17.626973
+#scale2  5.828855
+#scale3  4.248504
+  translation 102.016162 119.267701 78.254603
+  scale  17.626973 5.828855 4.248504
+#PCvar  62.142038 6.795110 3.609958 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.999801 -0.004609 0.019434 1.865158
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[9]
+Transform{
+#CENTER 108.083060 105.244721 113.592546
+#CovM0  14.073400 -8.788767 9.371237
+#CovM1  -8.788767 23.937780 3.188215
+#CovM2  9.371237 3.188215 19.456287
+#PCvar  29.763059 24.587023 3.117385
+#PC1    -0.601354 0.731947 -0.320355
+#PC2    0.247979 0.552134 0.796024
+#PC3    0.759526 0.399251 -0.513535
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  12.198987
+#scale2  11.087611
+#scale3  3.948028
+  translation 108.083060 105.244721 113.592546
+  scale  12.198987 11.087611 3.948028
+#PCvar  29.763059 24.587023 3.117385 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.317897 0.865208 0.387759 2.467666
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[10]
+Transform{
+#CENTER 87.672992 112.229166 83.660409
+#CovM0  7.132177 -3.378712 -0.402146
+#CovM1  -3.378712 36.665161 18.701834
+#CovM2  -0.402146 18.701834 17.050579
+#PCvar  48.209299 7.834634 4.803984
+#PC1    -0.075320 0.854548 0.513882
+#PC2    0.828834 -0.232871 0.508730
+#PC3    0.554402 0.464240 -0.690738
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  15.525672
+#scale2  6.258848
+#scale3  4.901012
+  translation 87.672992 112.229166 83.660409
+  scale  15.525672 6.258848 4.901012
+#PCvar  48.209299 7.834634 4.803984 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.679850 0.619193 0.392943 3.108867
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[11]
+Transform{
+#CENTER 80.581596 84.636828 107.303401
+#CovM0  7.793691 -0.691041 -11.140007
+#CovM1  -0.691041 14.943353 4.682201
+#CovM2  -11.140007 4.682201 35.285159
+#PCvar  40.090941 14.163699 3.767563
+#PC1    -0.324112 0.181763 0.928393
+#PC2    0.142268 0.979573 -0.142116
+#PC3    -0.935260 0.086019 -0.343350
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.158203
+#scale2  8.415373
+#scale3  4.340255
+  translation 80.581596 84.636828 107.303401
+  scale  14.158203 8.415373 4.340255
+#PCvar  40.090941 14.163699 3.767563 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.121479 0.992371 -0.021031 -1.921911
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[12]
+Transform{
+#CENTER 69.802785 89.356144 113.105633
+#CovM0  7.080845 -0.533627 3.891877
+#CovM1  -0.533627 37.831901 -11.911018
+#CovM2  3.891877 -11.911018 14.894410
+#PCvar  43.012117 12.055614 4.739425
+#PC1    -0.056510 0.916486 -0.396057
+#PC2    0.550752 0.359489 0.753286
+#PC3    0.832754 -0.175561 -0.525071
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.664944
+#scale2  7.763895
+#scale3  4.867969
+  translation 69.802785 89.356144 113.105633
+  scale  14.664944 7.763895 4.867969
+#PCvar  43.012117 12.055614 4.739425 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.586693 0.776161 0.231011 2.228177
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[13]
+Transform{
+#CENTER 72.798239 79.860769 105.146628
+#CovM0  26.873830 6.252159 -21.819507
+#CovM1  6.252159 7.725176 -12.041075
+#CovM2  -21.819507 -12.041075 35.647853
+#PCvar  57.099094 10.196577 2.951188
+#PC1    -0.599955 -0.260451 0.756452
+#PC2    0.782142 -0.389796 0.486121
+#PC3    0.168251 0.883303 0.437570
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  16.896611
+#scale2  7.140230
+#scale3  3.841346
+  translation 72.798239 79.860769 105.146628
+  scale  16.896611 7.140230 3.841346
+#PCvar  57.099094 10.196577 2.951188 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.314913 0.466366 0.826639 -2.459239
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[14]
+Transform{
+#CENTER 102.697510 127.519915 123.922047
+#CovM0  12.336456 7.661898 10.279784
+#CovM1  7.661898 22.979860 10.821060
+#CovM2  10.279784 10.821060 16.433367
+#PCvar  37.194882 10.733213 3.821589
+#PC1    0.448992 0.681724 0.577632
+#PC2    0.508481 -0.726514 0.462195
+#PC3    0.734747 0.086193 -0.672843
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  13.637243
+#scale2  7.325713
+#scale3  4.371263
+  translation 102.697510 127.519915 123.922047
+  scale  13.637243 7.325713 4.371263
+#PCvar  37.194882 10.733213 3.821589 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.849137 0.354819 0.391241 2.918341
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[15]
+Transform{
+#CENTER 90.053768 102.837110 93.447377
+#CovM0  34.663625 0.313174 -14.102965
+#CovM1  0.313174 4.958353 -0.005104
+#CovM2  -14.102965 -0.005104 9.746101
+#PCvar  41.025083 4.965810 3.377186
+#PC1    0.911593 0.007974 -0.411017
+#PC2    0.024955 0.996895 0.074686
+#PC3    0.410336 -0.078340 0.908563
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.322200
+#scale2  4.982876
+#scale3  4.109249
+  translation 90.053768 102.837110 93.447377
+  scale  14.322200 4.982876 4.109249
+#PCvar  41.025083 4.965810 3.377186 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.183121 0.982880 -0.020320 0.431055
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[16]
+Transform{
+#CENTER 87.709995 129.846872 122.717084
+#CovM0  15.852912 6.660160 -8.742368
+#CovM1  6.660160 23.121808 5.684156
+#CovM2  -8.742368 5.684156 18.245251
+#PCvar  27.174313 25.867198 4.178461
+#PC1    0.359069 0.905773 0.225045
+#PC2    -0.633697 0.059582 0.771284
+#PC3    0.685199 -0.419554 0.595379
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  11.656396
+#scale2  11.372598
+#scale3  4.570810
+  translation 87.709995 129.846872 122.717084
+  scale  11.656396 11.372598 4.570810
+#PCvar  27.174313 25.867198 4.178461 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.595434 0.230083 0.769754 1.563781
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[17]
+Transform{
+#CENTER 89.632182 100.782393 133.781942
+#CovM0  7.467342 2.782156 0.683517
+#CovM1  2.782156 15.648492 8.499322
+#CovM2  0.683517 8.499322 14.463709
+#PCvar  23.957868 8.220276 5.401399
+#PC1    0.150925 0.731105 0.665362
+#PC2    0.763510 0.341317 -0.548229
+#PC3    -0.627913 0.590752 -0.506693
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  10.944832
+#scale2  6.411036
+#scale3  5.196825
+  translation 89.632182 100.782393 133.781942
+  scale  10.944832 6.411036 5.196825
+#PCvar  23.957868 8.220276 5.401399 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.660805 0.750322 0.018800 -2.102758
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[18]
+Transform{
+#CENTER 70.211758 81.489581 121.140714
+#CovM0  6.127610 7.026397 4.407480
+#CovM1  7.026397 21.821101 13.089041
+#CovM2  4.407480 13.089041 15.703567
+#PCvar  34.593855 5.709470 3.348953
+#PC1    0.278418 0.757833 0.590061
+#PC2    -0.388706 -0.472886 0.790751
+#PC3    0.878289 -0.449520 0.162914
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  13.151778
+#scale2  5.342972
+#scale3  4.092037
+  translation 70.211758 81.489581 121.140714
+  scale  13.151778 5.342972 4.092037
+#PCvar  34.593855 5.709470 3.348953 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.723846 0.168215 0.669142 2.112710
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[19]
+Transform{
+#CENTER 91.410266 94.329845 126.218071
+#CovM0  7.750725 1.329603 -8.042702
+#CovM1  1.329603 3.985451 -0.059420
+#CovM2  -8.042702 -0.059420 15.962533
+#PCvar  20.919675 4.626943 2.152091
+#PC1    -0.523948 -0.044123 0.850607
+#PC2    0.424768 0.852075 0.305843
+#PC3    -0.738276 0.521556 -0.427701
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  10.227335
+#scale2  4.809856
+#scale3  3.280313
+  translation 91.410266 94.329845 126.218071
+  scale  10.227335 4.809856 3.280313
+#PCvar  20.919675 4.626943 2.152091 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.129122 0.951079 0.280670 -2.152905
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[20]
+Transform{
+#CENTER 114.410212 94.981877 120.414028
+#CovM0  12.876149 11.433219 0.986623
+#CovM1  11.433219 24.793582 1.369974
+#CovM2  0.986623 1.369974 5.985850
+#PCvar  31.837258 6.046060 5.772263
+#PC1    0.517759 0.853056 0.064967
+#PC2    0.652405 -0.442815 0.615047
+#PC3    0.553438 -0.276061 -0.785809
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  12.616905
+#scale2  5.498209
+#scale3  5.372273
+  translation 114.410212 94.981877 120.414028
+  scale  12.616905 5.498209 5.372273
+#PCvar  31.837258 6.046060 5.772263 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.860286 0.471576 0.193711 2.597183
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[21]
+Transform{
+#CENTER 92.052978 121.470676 130.362118
+#CovM0  18.299276 -6.614699 -5.818911
+#CovM1  -6.614699 14.964071 -4.182539
+#CovM2  -5.818911 -4.182539 17.721096
+#PCvar  24.571276 20.638410 5.774758
+#PC1    0.808460 -0.350943 -0.472473
+#PC2    0.126795 -0.680067 0.722102
+#PC3    -0.574730 -0.643698 -0.505309
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  11.084060
+#scale2  10.158349
+#scale3  5.373433
+  translation 92.052978 121.470676 130.362118
+  scale  11.084060 10.158349 5.373433
+#PCvar  24.571276 20.638410 5.774758 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.941573 -0.070496 -0.329349 2.330157
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[22]
+Transform{
+#CENTER 85.613361 92.717429 118.003788
+#CovM0  37.195751 18.290020 -28.656447
+#CovM1  18.290020 13.537738 -15.790236
+#CovM2  -28.656447 -15.790236 27.826667
+#PCvar  71.602729 3.652794 3.304633
+#PC1    0.702843 0.384193 -0.598671
+#PC2    -0.662205 0.660753 -0.353398
+#PC3    0.259801 0.644826 0.718820
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  18.921249
+#scale2  4.273637
+#scale3  4.064870
+  translation 85.613361 92.717429 118.003788
+  scale  18.921249 4.273637 4.064870
+#PCvar  71.602729 3.652794 3.304633 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  -0.593553 0.510456 0.622198 0.998923
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[23]
+Transform{
+#CENTER 110.897368 119.626821 67.875957
+#CovM0  39.036442 -7.984769 16.174610
+#CovM1  -7.984769 6.250719 -4.478686
+#CovM2  16.174610 -4.478686 14.352703
+#PCvar  48.995900 6.448149 4.195814
+#PC1    0.875414 -0.209185 0.435767
+#PC2    -0.474969 -0.204867 0.855823
+#PC3    -0.089751 -0.956175 -0.278700
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  15.651821
+#scale2  5.678094
+#scale3  4.580291
+  translation 110.897368 119.626821 67.875957
+  scale  15.651821 5.678094 4.580291
+#PCvar  48.995900 6.448149 4.195814 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.951033 -0.275819 0.139498 1.879765
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[24]
+Transform{
+#CENTER 114.008539 88.310037 108.635319
+#CovM0  41.420463 -3.910945 -3.898163
+#CovM1  -3.910945 5.101291 0.517117
+#CovM2  -3.898163 0.517117 4.491426
+#PCvar  42.246128 4.701390 4.065662
+#PC1    0.989004 -0.105573 -0.103560
+#PC2    0.121332 0.979622 0.160062
+#PC3    0.084552 -0.170868 0.981659
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.533776
+#scale2  4.848397
+#scale3  4.508693
+  translation 114.008539 88.310037 108.635319
+  scale  14.533776 4.848397 4.508693
+#PCvar  42.246128 4.701390 4.065662 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.746758 0.424484 -0.512021 0.223432
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[25]
+Transform{
+#CENTER 96.284605 107.545495 75.063297
+#CovM0  16.609121 -11.303254 -0.541230
+#CovM1  -11.303254 28.716467 -0.209526
+#CovM2  -0.541230 -0.209526 4.624236
+#PCvar  35.485373 9.902507 4.561943
+#PC1    -0.513808 0.857899 0.003186
+#PC2    0.852734 0.511115 -0.107728
+#PC3    -0.094048 -0.052634 -0.994175
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  13.320168
+#scale2  7.036514
+#scale3  4.775952
+  translation 96.284605 107.545495 75.063297
+  scale  13.320168 7.036514 4.775952
+#PCvar  35.485373 9.902507 4.561943 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.492446 0.869118 -0.046164 -3.085625
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[26]
+Transform{
+#CENTER 78.583796 114.995113 99.074333
+#CovM0  28.975522 27.727540 -6.031308
+#CovM1  27.727540 34.044232 -7.795476
+#CovM2  -6.031308 -7.795476 6.067436
+#PCvar  61.106737 4.842418 3.138036
+#PC1    0.661854 0.728742 -0.175742
+#PC2    0.510553 -0.266548 0.817488
+#PC3    0.548894 -0.630784 -0.548477
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  17.479522
+#scale2  4.920578
+#scale3  3.961083
+  translation 78.583796 114.995113 99.074333
+  scale  17.479522 4.920578 3.961083
+#PCvar  61.106737 4.842418 3.138036 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.886296 0.443454 0.133524 2.185340
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[27]
+Transform{
+#CENTER 110.027599 111.471928 89.550671
+#CovM0  9.797313 -18.025042 -0.236750
+#CovM1  -18.025042 54.899500 -1.650851
+#CovM2  -0.236750 -1.650851 4.829938
+#PCvar  61.256813 5.146073 3.123865
+#PC1    -0.330362 0.943490 -0.026217
+#PC2    -0.403284 -0.115987 0.907694
+#PC3    0.853360 0.310440 0.418812
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  17.500973
+#scale2  5.072511
+#scale3  3.952129
+  translation 110.027599 111.471928 89.550671
+  scale  17.500973 5.072511 3.952129
+#PCvar  61.256813 5.146073 3.123865 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.348079 0.512617 0.784898 2.110368
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[28]
+Transform{
+#CENTER 102.451706 115.238452 132.178952
+#CovM0  34.019371 18.589902 -14.856927
+#CovM1  18.589902 18.255818 -8.962400
+#CovM2  -14.856927 -8.962400 14.224139
+#PCvar  53.904907 7.053713 5.540708
+#PC1    0.767357 0.500822 -0.400424
+#PC2    0.003264 0.621414 0.783476
+#PC3    0.641211 -0.602513 0.475212
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  16.417202
+#scale2  5.938734
+#scale3  5.263415
+  translation 102.451706 115.238452 132.178952
+  scale  16.417202 5.938734 5.263415
+#PCvar  53.904907 7.053713 5.540708 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.768391 0.577482 0.275846 1.124097
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[29]
+Transform{
+#CENTER 98.854699 87.388140 87.303662
+#CovM0  15.040131 -0.968640 -3.873121
+#CovM1  -0.968640 39.261344 -7.830580
+#CovM2  -3.873121 -7.830580 9.486095
+#PCvar  41.195121 16.769431 5.823019
+#PC1    -0.000460 0.970848 -0.239696
+#PC2    0.917617 -0.094861 -0.385980
+#PC3    -0.397466 -0.220126 -0.890823
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.351850
+#scale2  9.156809
+#scale3  5.395841
+  translation 98.854699 87.388140 87.303662
+  scale  14.351850 9.156809 5.395841
+#PCvar  41.195121 16.769431 5.823019 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.705713 0.671317 -0.226500 -3.023813
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[30]
+Transform{
+#CENTER 86.135385 96.196473 105.116392
+#CovM0  31.289426 20.649392 -16.831749
+#CovM1  20.649392 23.386472 -7.924723
+#CovM2  -16.831749 -7.924723 16.767592
+#PCvar  56.602954 11.785187 3.055348
+#PC1    0.724698 0.549659 -0.415556
+#PC2    -0.113035 0.689731 0.715188
+#PC3    0.679732 -0.471324 0.561977
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  16.823043
+#scale2  7.676323
+#scale3  3.908547
+  translation 86.135385 96.196473 105.116392
+  scale  16.823043 7.676323 3.908547
+#PCvar  56.602954 11.785187 3.055348 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.679770 0.627507 0.379667 1.060767
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[31]
+Transform{
+#CENTER 94.891068 132.020484 134.339415
+#CovM0  31.717433 -4.305594 -5.631671
+#CovM1  -4.305594 7.024438 -0.037843
+#CovM2  -5.631671 -0.037843 7.495248
+#PCvar  33.625450 7.262295 5.349374
+#PC1    0.965632 -0.156000 -0.207890
+#PC2    -0.033573 0.718285 -0.694939
+#PC3    0.257735 0.678035 0.688362
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  12.966389
+#scale2  6.025900
+#scale3  5.171737
+  translation 94.891068 132.020484 134.339415
+  scale  12.966389 6.025900 5.171737
+#PCvar  33.625450 7.262295 5.349374 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.943663 -0.320031 0.084146 -0.814628
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[32]
+Transform{
+#CENTER 102.172103 91.448279 114.591932
+#CovM0  14.702789 -2.430990 -5.381320
+#CovM1  -2.430990 3.916368 0.985519
+#CovM2  -5.381320 0.985519 6.626769
+#PCvar  17.882419 4.007036 3.356471
+#PC1    0.880403 -0.184086 -0.437038
+#PC2    0.365935 -0.322456 0.872991
+#PC3    -0.301632 -0.928512 -0.216528
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  9.455797
+#scale2  4.476068
+#scale3  4.096627
+  translation 102.172103 91.448279 114.591932
+  scale  9.455797 4.476068 4.096627
+#PCvar  17.882419 4.007036 3.356471 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.953955 0.071702 -0.291255 1.906348
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[33]
+Transform{
+#CENTER 108.323006 109.976458 70.408757
+#CovM0  51.571938 -25.155103 -1.668311
+#CovM1  -25.155103 20.597924 -1.743558
+#CovM2  -1.668311 -1.743558 6.151976
+#PCvar  65.631370 8.689402 4.001065
+#PC1    0.873154 -0.487338 -0.010205
+#PC2    0.352952 0.646541 -0.676321
+#PC3    0.336195 0.586931 0.736536
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  18.115100
+#scale2  6.591435
+#scale3  4.472731
+  translation 108.323006 109.976458 70.408757
+  scale  18.115100 6.591435 4.472731
+#PCvar  65.631370 8.689402 4.001065 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.811733 -0.222588 0.539949 -0.891667
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[34]
+Transform{
+#CENTER 106.035272 78.224523 113.618232
+#CovM0  84.666349 -23.044362 -46.745972
+#CovM1  -23.044362 11.649341 12.511375
+#CovM2  -46.745972 12.511375 31.851620
+#PCvar  118.384337 5.741431 4.041542
+#PC1    0.839606 -0.238481 -0.488046
+#PC2    -0.109069 0.806158 -0.581561
+#PC3    0.532133 0.541513 0.650844
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  24.329441
+#scale2  5.357906
+#scale3  4.495299
+  translation 106.035272 78.224523 113.618232
+  scale  24.329441 5.357906 4.495299
+#PCvar  118.384337 5.741431 4.041542 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.737524 -0.669952 0.084985 -0.865442
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[35]
+Transform{
+#CENTER 76.579719 100.142048 117.978828
+#CovM0  5.189346 2.950726 1.464775
+#CovM1  2.950726 10.311555 5.217504
+#CovM2  1.464775 5.217504 13.590893
+#PCvar  18.094360 7.265296 3.732139
+#PC1    0.224336 0.599899 0.767981
+#PC2    0.455918 0.631895 -0.626776
+#PC3    -0.861285 0.490745 -0.131748
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  9.511667
+#scale2  6.027145
+#scale3  4.319802
+  translation 76.579719 100.142048 117.978828
+  scale  9.511667 6.027145 4.319802
+#PCvar  18.094360 7.265296 3.732139 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.564139 0.822475 -0.072683 -1.708995
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[36]
+Transform{
+#CENTER 70.124525 105.746813 90.580907
+#CovM0  4.384978 -0.594699 -1.265690
+#CovM1  -0.594699 11.648028 14.384959
+#CovM2  -1.265690 14.384959 34.788245
+#PCvar  41.731117 4.757773 4.332360
+#PC1    -0.037418 0.431692 0.901245
+#PC2    0.024515 0.902001 -0.431036
+#PC3    -0.998999 0.005965 -0.044334
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.444916
+#scale2  4.877383
+#scale3  4.654224
+  translation 70.124525 105.746813 90.580907
+  scale  14.444916 4.877383 4.654224
+#PCvar  41.731117 4.757773 4.332360 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.219389 0.953983 -0.204416 -1.660793
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[37]
+Transform{
+#CENTER 104.744724 124.760000 136.021475
+#CovM0  12.556534 -5.944595 -2.997637
+#CovM1  -5.944595 10.510706 3.380424
+#CovM2  -2.997637 3.380424 6.116923
+#PCvar  19.107778 5.808545 4.267840
+#PC1    0.712731 -0.621042 -0.326068
+#PC2    0.697801 0.580504 0.419628
+#PC3    -0.071323 -0.526613 0.847108
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  9.774400
+#scale2  5.389130
+#scale3  4.619437
+  translation 104.744724 124.760000 136.021475
+  scale  9.774400 5.389130 4.619437
+#PCvar  19.107778 5.808545 4.267840 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  -0.575905 -0.155044 0.802680 -0.964081
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[38]
+Transform{
+#CENTER 98.969810 111.396007 88.890714
+#CovM0  13.354302 -8.143604 -15.103978
+#CovM1  -8.143604 10.064428 13.466627
+#CovM2  -15.103978 13.466627 31.000991
+#PCvar  46.470032 4.757734 3.191955
+#PC1    -0.459894 0.396734 0.794418
+#PC2    0.802725 -0.196747 0.562959
+#PC3    0.379644 0.896601 -0.227985
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  15.243036
+#scale2  4.877363
+#scale3  3.994968
+  translation 98.969810 111.396007 88.890714
+  scale  15.243036 4.877363 3.994968
+#PCvar  46.470032 4.757734 3.191955 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.498371 0.619560 0.606442 -2.800271
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[39]
+Transform{
+#CENTER 127.647948 79.652803 114.842859
+#CovM0  19.939887 4.025295 5.863407
+#CovM1  4.025295 15.127804 1.412979
+#CovM2  5.863407 1.412979 7.510641
+#PCvar  24.259416 13.141089 5.177827
+#PC1    0.843500 0.423036 0.330981
+#PC2    -0.385865 0.905904 -0.174491
+#PC3    -0.373653 0.019469 0.927364
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  11.013495
+#scale2  8.105889
+#scale3  5.088137
+  translation 127.647948 79.652803 114.842859
+  scale  11.013495 8.105889 5.088137
+#PCvar  24.259416 13.141089 5.177827 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  -0.177918 -0.646357 0.742002 0.576485
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[40]
+Transform{
+#CENTER 79.596330 108.983760 88.922724
+#CovM0  4.292629 1.182163 0.718075
+#CovM1  1.182163 31.637920 16.161032
+#CovM2  0.718075 16.161032 13.827793
+#PCvar  41.236710 4.287017 4.234616
+#PC1    0.037410 0.860378 0.508282
+#PC2    0.344739 -0.488524 0.801560
+#PC3    0.937953 0.145238 -0.314882
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.359093
+#scale2  4.629804
+#scale3  4.601421
+  translation 79.596330 108.983760 88.922724
+  scale  14.359093 4.629804 4.601421
+#PCvar  41.236710 4.287017 4.234616 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.699142 0.457703 0.549280 2.653008
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[41]
+Transform{
+#CENTER 111.502970 104.094152 130.780758
+#CovM0  16.605811 -8.895458 -4.809639
+#CovM1  -8.895458 17.521599 6.807320
+#CovM2  -4.809639 6.807320 12.528116
+#PCvar  29.901671 9.486012 7.267843
+#PC1    -0.604305 0.670701 0.430088
+#PC2    0.695326 0.180381 0.695690
+#PC3    0.389020 0.719461 -0.575361
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  12.227361
+#scale2  6.886948
+#scale3  6.028202
+  translation 111.502970 104.094152 130.780758
+  scale  12.227361 6.886948 6.028202
+#PCvar  29.901671 9.486012 7.267843 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.444639 0.768191 0.460629 -3.114859
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[42]
+Transform{
+#CENTER 85.576240 110.449389 103.243387
+#CovM0  17.184127 12.476727 -8.081555
+#CovM1  12.476727 18.319060 -8.830420
+#CovM2  -8.081555 -8.830420 10.446482
+#PCvar  35.874194 5.360922 4.714553
+#PC1    0.622480 0.656623 -0.425869
+#PC2    0.782516 -0.512678 0.353313
+#PC3    0.013660 -0.553179 -0.832950
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  13.392945
+#scale2  5.177317
+#scale3  4.855179
+  translation 85.576240 110.449389 103.243387
+  scale  13.392945 5.177317 4.855179
+#PCvar  35.874194 5.360922 4.714553 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.892863 0.432920 -0.124000 2.609158
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[43]
+Transform{
+#CENTER 91.150164 91.989630 76.853283
+#CovM0  47.641057 -16.297304 -12.145260
+#CovM1  -16.297304 36.914496 2.063090
+#CovM2  -12.145260 2.063090 8.377909
+#PCvar  61.757058 26.482076 4.694327
+#PC1    0.810357 -0.548686 -0.205586
+#PC2    0.501281 0.830870 -0.241604
+#PC3    0.303379 0.092729 0.948347
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  17.572288
+#scale2  11.506971
+#scale3  4.844754
+  translation 91.150164 91.989630 76.853283
+  scale  17.572288 11.506971 4.844754
+#PCvar  61.757058 26.482076 4.694327 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.275448 -0.419323 0.865041 -0.652140
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[44]
+Transform{
+#CENTER 70.782898 93.947587 96.769472
+#CovM0  10.383420 7.134828 -17.518202
+#CovM1  7.134828 12.195070 -20.271770
+#CovM2  -17.518202 -20.271770 62.128096
+#PCvar  74.860159 5.757372 4.089054
+#PC1    -0.281274 -0.324205 0.903203
+#PC2    0.645574 0.632453 0.428063
+#PC3    -0.710014 0.703487 0.031406
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  19.346855
+#scale2  5.365339
+#scale3  4.521645
+  translation 70.782898 93.947587 96.769472
+  scale  19.346855 5.365339 4.521645
+#PCvar  74.860159 5.757372 4.089054 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.144784 0.848029 0.509789 -1.884630
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[45]
+Transform{
+#CENTER 94.275377 122.688563 89.985591
+#CovM0  55.443626 -6.304143 -30.924564
+#CovM1  -6.304143 4.408105 2.424250
+#CovM2  -30.924564 2.424250 24.233518
+#PCvar  75.101133 5.914869 3.069248
+#PC1    0.848753 -0.093536 -0.520451
+#PC2    0.412370 -0.499030 0.762181
+#PC3    -0.331012 -0.861522 -0.384982
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  19.377969
+#scale2  5.438230
+#scale3  3.917427
+  translation 94.275377 122.688563 89.985591
+  scale  19.377969 5.438230 3.917427
+#PCvar  75.101133 5.914869 3.069248 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.948863 0.110704 -0.295642 2.114874
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[46]
+Transform{
+#CENTER 112.417532 81.326297 121.428878
+#CovM0  32.728185 -7.580346 -21.019287
+#CovM1  -7.580346 6.230580 5.247127
+#CovM2  -21.019287 5.247127 20.110437
+#PCvar  50.291823 4.708094 4.069284
+#PC1    0.786182 -0.204697 -0.583110
+#PC2    0.374432 -0.592872 0.712954
+#PC3    -0.491649 -0.778846 -0.389461
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  15.857462
+#scale2  4.851852
+#scale3  4.510701
+  translation 112.417532 81.326297 121.428878
+  scale  15.857462 4.851852 4.510701
+#PCvar  50.291823 4.708094 4.069284 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.930700 0.057060 -0.361305 2.211894
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[47]
+Transform{
+#CENTER 83.432168 83.806860 119.303395
+#CovM0  20.905246 -3.029191 3.217029
+#CovM1  -3.029191 14.104084 10.431643
+#CovM2  3.217029 10.431643 15.950872
+#PCvar  25.528933 21.988513 3.442756
+#PC1    0.088232 0.658790 0.747135
+#PC2    0.965566 -0.240852 0.098346
+#PC3    0.244738 0.712731 -0.657356
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  11.297994
+#scale2  10.485350
+#scale3  4.148949
+  translation 83.432168 83.806860 119.303395
+  scale  11.297994 10.485350 4.148949
+#PCvar  25.528933 21.988513 3.442756 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.722065 0.590449 0.360543 -2.702149
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[48]
+Transform{
+#CENTER 81.580393 92.435044 91.222552
+#CovM0  22.252092 1.721827 -2.514926
+#CovM1  1.721827 24.056534 -19.605002
+#CovM2  -2.514926 -19.605002 25.543729
+#PCvar  44.819723 21.866665 5.165968
+#PC1    -0.132067 -0.686291 0.715236
+#PC2    0.990790 -0.113148 0.074378
+#PC3    0.029882 0.718472 0.694914
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.969924
+#scale2  10.456258
+#scale3  5.082306
+  translation 81.580393 92.435044 91.222552
+  scale  14.969924 10.456258 5.082306
+#PCvar  44.819723 21.866665 5.165968 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.334976 0.356435 0.872207 -1.849543
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[49]
+Transform{
+#CENTER 126.247091 84.173654 108.329731
+#CovM0  8.706808 6.111321 7.135404
+#CovM1  6.111321 21.381486 16.262095
+#CovM2  7.135404 16.262095 19.547198
+#PCvar  39.581897 6.299863 3.753732
+#PC1    0.289856 0.689964 0.663274
+#PC2    0.873549 -0.473866 0.111187
+#PC3    0.391018 0.547175 -0.740071
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.068031
+#scale2  5.612425
+#scale3  4.332281
+  translation 126.247091 84.173654 108.329731
+  scale  14.068031 5.612425 4.332281
+#PCvar  39.581897 6.299863 3.753732 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.798786 0.498808 0.336351 -2.865180
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[50]
+Transform{
+#CENTER 111.525664 82.412266 100.170418
+#CovM0  17.698190 -21.670605 10.299825
+#CovM1  -21.670605 38.308107 -15.327400
+#CovM2  10.299825 -15.327400 9.429717
+#PCvar  58.889184 4.154197 2.392634
+#PC1    -0.503196 0.790260 -0.349690
+#PC2    0.753544 0.599342 0.270112
+#PC3    0.423042 -0.127587 -0.897082
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  17.159427
+#scale2  4.557519
+#scale3  3.458781
+  translation 111.525664 82.412266 100.170418
+  scale  17.159427 4.557519 3.458781
+#PCvar  58.889184 4.154197 2.392634 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.457208 0.888358 0.042210 2.691641
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[51]
+Transform{
+#CENTER 73.990641 101.592503 103.386059
+#CovM0  19.508892 4.421805 -12.315536
+#CovM1  4.421805 5.586390 -2.068926
+#CovM2  -12.315536 -2.068926 14.599959
+#PCvar  30.512082 5.779336 3.403824
+#PC1    0.764970 0.186866 -0.616362
+#PC2    0.319096 0.721318 0.614717
+#PC3    0.559463 -0.666919 0.492159
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  12.351535
+#scale2  5.375563
+#scale3  4.125423
+  translation 73.990641 101.592503 103.386059
+  scale  12.351535 5.375563 4.125423
+#PCvar  30.512082 5.779336 3.403824 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.734750 0.674089 -0.075806 1.059597
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[52]
+Transform{
+#CENTER 99.470387 137.227227 122.268219
+#CovM0  13.639530 -1.969859 -4.194840
+#CovM1  -1.969859 5.120648 2.245431
+#CovM2  -4.194840 2.245431 13.465476
+#PCvar  18.415790 9.366370 4.443495
+#PC1    0.693285 -0.218694 -0.686680
+#PC2    0.709816 0.042520 0.703102
+#PC3    -0.124566 -0.974867 0.184711
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  9.595778
+#scale2  6.843380
+#scale3  4.713542
+  translation 99.470387 137.227227 122.268219
+  scale  9.595778 6.843380 4.713542
+#PCvar  18.415790 9.366370 4.443495 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.839648 0.281279 -0.464622 1.610549
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[53]
+Transform{
+#CENTER 125.848150 91.140650 118.493124
+#CovM0  16.340823 2.127479 -0.472077
+#CovM1  2.127479 10.942887 -11.290789
+#CovM2  -0.472077 -11.290789 17.978095
+#PCvar  26.552534 16.224409 2.484862
+#PC1    -0.159982 -0.592749 0.789338
+#PC2    0.981651 -0.011480 0.190339
+#PC3    -0.103761 0.805305 0.583710
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  11.522268
+#scale2  9.006778
+#scale3  3.524814
+  translation 125.848150 91.140650 118.493124
+  scale  11.522268 9.006778 3.524814
+#PCvar  26.552534 16.224409 2.484862 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.321688 0.467179 0.823566 -1.869076
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[54]
+Transform{
+#CENTER 98.910016 92.571585 126.015696
+#CovM0  4.312454 -4.337169 0.515193
+#CovM1  -4.337169 37.695202 13.772335
+#CovM2  0.515193 13.772335 12.963603
+#PCvar  44.192608 8.036175 2.742476
+#PC1    -0.093957 0.911497 0.400430
+#PC2    0.476919 -0.311850 0.821765
+#PC3    0.873911 0.268183 -0.405410
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  14.864826
+#scale2  6.338838
+#scale3  3.703023
+  translation 98.910016 92.571585 126.015696
+  scale  14.864826 6.338838 3.703023
+#PCvar  44.192608 8.036175 2.742476 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.652631 0.558198 0.512335 2.703608
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}
+
+#Gauss_Function[55]
+Transform{
+#CENTER 85.855081 105.942605 127.838249
+#CovM0  20.484323 29.048764 -4.149869
+#CovM1  29.048764 72.481879 1.277555
+#CovM2  -4.149869 1.277555 8.211604
+#PCvar  85.470901 12.177850 3.529055
+#PC1    0.408438 0.912761 -0.006845
+#PC2    -0.616354 0.281319 0.735504
+#PC3    0.673265 -0.296189 0.677485
+# ** scale[i] = sqrt(PCvar[i]*qform_thre
+#scale1  20.672554
+#scale2  7.803156
+#scale3  4.200628
+  translation 85.855081 105.942605 127.838249
+  scale  20.672554 7.803156 4.200628
+#PCvar  85.470901 12.177850 3.529055 cover_ratio 0.828203 qform_thre 5.000000
+  rotation  0.524769 0.345937 0.777782 1.386127
+  children[
+    Shape{
+      appearance Appearance{
+        material Material{
+          diffuseColor 0.000000 1.000000 0.000000
+          specularColor 0.5 0.5 0.5
+          transparency 0.500000
+        }
+      }
+      geometry Sphere{
+        radius 1.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+2023/05/05 18:23:50	2023/05/05 18:23:50	761209/    -2	flute.ucsf.edu	/home/arthur/work/progs/eman2-sphire-sparx/bin/e2proc2d.py class-01.png filtered/tt.jpg --process mask.auto2d:nmaxseed=1:threshold=0.5 --process threshold.clampminmax:minval=1.0:maxval=5.0

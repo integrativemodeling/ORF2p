@@ -1,0 +1,4 @@
+The sampling precision is defined as the largest allowed RMSD between the cluster centroid and a  ORF2p model within any cluster in the finest clustering for which each sample contributes models proportionally to its size (considering both significance and magnitude of the difference) and for which a sufficient proportion of all models occur in sufficiently large clusters. The sampling precision for our  ORF2p  modeling is 12.245  A.
+Sampling precision, P-value, Cramer's V and percentage of clustered models below:
+12.245	0.003	0.091	91.974
+
