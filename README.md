@@ -4,6 +4,8 @@ These scripts demonstrate the use of [IMP](https://integrativemodeling.org/) in 
 
 - `dependencies\environment.yml`  : Files required to deploy a conda environment to reproduce the modeling and analysis
 
+- `md`  : Run and output files for molecular dynamics simulations
+
 - `data`		            contains all relevant data
 
   - `ORF2p.fasta`  : Reference protein sequence 
