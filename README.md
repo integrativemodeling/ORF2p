@@ -1,4 +1,4 @@
-These scripts demonstrate the use of [IMP](https://integrativemodeling.org/) in the modeling of the human LINE1 ORF2p protein using diverse types of data as described in XXXXX.
+These scripts demonstrate the use of [IMP](https://integrativemodeling.org/) in the modeling of the human LINE1 ORF2p protein using diverse types of data.
 
 ## List of files and directories:
 
@@ -25,6 +25,10 @@ These scripts demonstrate the use of [IMP](https://integrativemodeling.org/) in 
 - `validation`		                      Validation of modeling results with EM2D data that were not used for sampling
   - `ORF2p_em2d_validation.ipynb`  Jupyter notebook with the validation code and results
   - `validation\output`  Best-fitting models and various figures used in the publication
+
+**!NB: Due to size limitations following data available only on Zenodo**
+- `md\*\run_*\md_nojump_fit.xtc` - Output MD trajectories
+- `validation\output\em2d_validation.dump` - Binary (dill) dump of EM2D validation data including projections, coordinates, and scores
 
 ## Information
 
